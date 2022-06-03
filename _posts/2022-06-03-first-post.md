@@ -12,4 +12,4 @@ It was taken in Lohmen.
 
 ![picture](https://photos.thf.ovh/api/photo/PXL_20220528_130116752_a9qrqllM.jpg?token=8wB5m4Ly)
 
-to view EXIF-Data click [here](https://photos.thf.ovh/share/8wB5m4Ly)
+to view EXIF-Data click [here](https://photos.thf.ovh/share/8wB5m4Ly){:target="\_blank"}

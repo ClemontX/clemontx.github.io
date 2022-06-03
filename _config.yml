@@ -44,12 +44,13 @@ social:
   email: carl@sander.run             # change to your email address
   links:
     # The first element serves as the copyright owner's link
+    - https://sander.run
     - https://twitter.com/ClemontX       # change to your twitter homepage
     - https://github.com/clemontx       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     - https://www.linkedin.com/in/carl-dominik-sander/
-    - https://sander.run
+
 
 google_site_verification:               # fill in to your verification string
 
