@@ -3,7 +3,7 @@ layout: post
 title: first post
 date: 2022-06-03 10:17 +0200
 categories: [nature]
-tags: [nature,saxonswitzerland,saxon]     # TAG names should always be lowercase
+tags: [nature,saxonswitzerland,saxony]     # TAG names should always be lowercase
 ---
 
 # First post
